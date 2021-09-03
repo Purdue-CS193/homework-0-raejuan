@@ -1,5 +1,7 @@
 # Rae Juan's First CS193 Homework
 
+## Things I enjoy about this class 
+
 - Class is very welcoming and understanding
 - I like learning to code
 - I enjoy learning new terminology
